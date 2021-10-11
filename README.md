@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PedroCMotta-oficial
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning python and MySQL
+- 👋 Olá, eu sou @PedroCMotta-oficial
+- 👀 Estou interessado em empreendedorismo. Porém, eu amo programar
+- 🌱 Atualmente estou estudando Python e MySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.instagram.com/ped.motta/
+- 📫 Você pode me seguir pelo instagram: https://www.instagram.com/ped.motta/
 
 <!---
 PedroCMotta-oficial/PedroCMotta-oficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
