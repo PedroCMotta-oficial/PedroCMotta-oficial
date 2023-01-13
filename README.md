@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @PedroCMotta-oficial
 - 👀 Estou interessado em empreendedorismo. Porém, eu amo programar
-- 🌱 Atualmente estou estudando Python e MySQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Atualmente estou estudando desenvolvimento para a Web
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Você pode me seguir pelo instagram: https://www.instagram.com/ped.motta/
 
 <!---
