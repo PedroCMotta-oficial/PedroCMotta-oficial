@@ -1,10 +1,10 @@
 <h1>Pedro Motta</h1>
 
 - 👋 Olá, eu sou @PedroCMotta-oficial
-- 👀 Estou interessado em empreendedorismo. Porém, eu amo programar
-- 🌱 Atualmente estou estudando desenvolvimento para a Web
+- 👀 Gosto muito da área de jogos, robótica e backend
+- 🌱 Atualmente estudo na UFRRJ - Ciência da Computação (1 - 8)
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Você pode me seguir pelo instagram: https://www.instagram.com/ped.motta/
+- 📫 Você pode me seguir pelo instagram: https://www.instagram.com/pedrooomtt/
 
 <!---
 PedroCMotta-oficial/PedroCMotta-oficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
