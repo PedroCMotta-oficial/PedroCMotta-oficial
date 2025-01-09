@@ -4,7 +4,7 @@
 - 👀 Me aprofundando cada vez mais na área de jogos
 - ❤️ Dando a vida pela facul e programação competitiva
 - 📓 Linguagens: C; C++
-- 🌱 Atualmente estudo na UFRRJ - Ciência da Computação (2 - 8)
+- 🌱 Atualmente estudo na UFRRJ - Ciência da Computação (3 - 8)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Você pode me seguir pelo instagram: https://www.instagram.com/pedrooomtt/
 
