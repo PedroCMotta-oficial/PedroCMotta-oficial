@@ -1,12 +1,8 @@
 <h1>Pedro Motta</h1>
 
-- 👋 Olá
-- 👀 Me aprofundando cada vez mais na área de jogos
-- ❤️ Dando a vida pela facul e programação competitiva
-- 📓 Linguagens: C; C++
-- 🌱 Atualmente estudo na UFRRJ - Ciência da Computação (3 - 8)
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Você pode me seguir pelo instagram: https://www.instagram.com/pedrooomtt/
+- WebDev com foco em Javascript + C
+- UFRRJ - Ciência da Computação (3 - 8)
+- https://www.instagram.com/pedrooomtt/
 
 <!---
 PedroCMotta-oficial/PedroCMotta-oficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
